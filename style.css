@@ -1,0 +1,40 @@
+.navbar {
+    padding: 8px;    
+    background: #383b3d ;
+    color: white;
+    font-size: 20px;
+    
+}
+.navbar-a {
+    margin-left: 12px;
+    padding: 12px;
+    color:aliceblue;
+        
+}
+
+a:hover {
+    color: rgb(173, 169, 169);
+    text-decoration: none;
+  }
+
+ul#horizontal-list {
+    list-style: none;
+    
+    font-size: large;    
+}
+#Products-Main {
+    text-align: center;
+    font-size: 16px; 
+}
+
+.mainpage {
+    text-align: center;
+    font-size: 16px;
+}
+
+.menu-img {
+   
+    width: 360px;
+    height: 250px; 
+    padding: 12px;
+}
